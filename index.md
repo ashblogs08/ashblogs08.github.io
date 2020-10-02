@@ -1,6 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hey, Thanks for stopping by I am Ashik. An Machine Learning Practitioner, a guy who likes to experiment with life without any hesitations. I write things which excites (almost all) so that would be a good deal if you stay tuned read my blogs isnt ? 
 
-![Image of fast.ai logo](images/logo.png)
 
 # Hope this works!!!
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
