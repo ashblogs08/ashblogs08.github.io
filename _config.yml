@@ -23,7 +23,7 @@ use_math: True
 google_analytics: UA-180453141-1
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
