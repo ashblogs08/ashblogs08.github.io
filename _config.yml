@@ -6,15 +6,15 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Thinking, Slow
-description: Thoughts when I'm building
-github_username: prampey
+title: Ashik Shafi
+description: I write things which excites me..❤
+github_username: ashblogs08
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "blog"
+github_repo: "ashblogs08.github.io"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://prudhvirampey.com" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -39,8 +39,8 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: prampey7
-    github: prampey
+    twitter: AshikHafi
+    github: ashblogs08
 
 # Set this to true to get LaTeX math equation support
 use_math: true
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: UA-180453141-1
 
 exclude:
   - docker-compose.yml
@@ -119,4 +119,4 @@ kramdown:
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname: think-slow
+  shortname: ash_blog
