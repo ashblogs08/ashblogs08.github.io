@@ -1,4 +1,4 @@
-<figure style="float: right;">
+<figure>
   <img class="image" width="{{ include.w }}" src="/images/{{ include.url }}"
     {% if include.caption %}
     alt="{{ include.caption }}"
